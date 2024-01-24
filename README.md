@@ -23,7 +23,6 @@ I'm Phyo!, a Quality Control/Quality Assurance (QC/QA) Engineer with a passion f
 ## Collaboration
 
 - 💞️ I'm looking to collaborate on:
-  - Open source testing projects
   - QA methodologies
   - Computer Vision projects
 
